@@ -50,8 +50,8 @@ function Project() {
                 <p>Designed and developed a custom content management system for user-submitted recipes as well as food and gardening blogs using a MERN stack (MongoDB, Express, React, Node)</p>
             </div>
             <div className="project">
-                <a href="https://kjaques.github.io" target="_blank" rel="noreferrer"><img src={portfolio} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://kjaques.github.io" target="_blank" rel="noreferrer"><h2>React Portfolio</h2></a>
+                <a href="https://github.com/kjaques/portfolio" target="_blank" rel="noreferrer"><img src={portfolio} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/kjaques/portfolio" target="_blank" rel="noreferrer"><h2>React Portfolio</h2></a>
                 <p>Created a simple, responsive portfolio website to showcase my skillsets, experience, and some of my work</p>
             </div>
         </div>
