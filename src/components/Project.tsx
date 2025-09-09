@@ -16,7 +16,7 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="https://github.com/kjaques/prescriber-project-sql/blob/main/prescribers-MVP.sql" target="_blank" rel="noreferrer"><img src={cms} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/kjaques/prescriber-project-sql/blob/main/prescribers-MVP.sql" target="_blank" rel="noreferrer"><h2>CMS Prescriber and Presciption Data Analysis</h2></a>
+                <a href="https://github.com/kjaques/prescriber-project-sql/blob/main/prescribers-MVP.sql" target="_blank" rel="noreferrer"><h2>CMS Prescriber and Prescription Data Analysis</h2></a>
                 <p>Designed and executed a SQL-based analysis of Centers for Medicare & Medicaid Services (CMS) prescriber and prescription data to answer questions which evaluated healthcare utilization, drug costs, and opioid prescribing trends</p>
             </div>
             <div className="project">
