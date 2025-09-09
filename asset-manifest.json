@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1e0beab7.css",
+    "main.js": "/portfolio/static/js/main.0af78d55.js",
+    "static/js/453.5d79306b.chunk.js": "/portfolio/static/js/453.5d79306b.chunk.js",
+    "static/media/screenshot.png": "/portfolio/static/media/screenshot.4cf133abababbf58de25.png",
+    "static/media/lightbg.jpg": "/portfolio/static/media/lightbg.f6497dbfb9c4978fd278.jpg",
+    "static/media/darkbg.jpg": "/portfolio/static/media/darkbg.b36ddbc706c567d12b04.jpg",
+    "static/media/hearthy.png": "/portfolio/static/media/hearthy.02222f24fd65295d1800.png",
+    "static/media/cartoonheadshot.png": "/portfolio/static/media/cartoonheadshot.4f9570f18c4211e644f9.png",
+    "static/media/brfss.jpg": "/portfolio/static/media/brfss.14c67790738095cfc907.jpg",
+    "static/media/chai.jpg": "/portfolio/static/media/chai.e497df28d83c34ef1b17.jpg",
+    "static/media/vsafe.jpg": "/portfolio/static/media/vsafe.c6775423bf8fa7cd3869.jpg",
+    "static/media/cms.png": "/portfolio/static/media/cms.a7ad70c3f1d0d489d6b6.png",
+    "static/media/HRDashboard.png": "/portfolio/static/media/HRDashboard.2fbea5c52d31cc055712.png",
+    "static/media/mentalhealthburden.png": "/portfolio/static/media/mentalhealthburden.adb29597708fd5901b23.png",
+    "index.html": "/portfolio/index.html",
+    "main.1e0beab7.css.map": "/portfolio/static/css/main.1e0beab7.css.map",
+    "main.0af78d55.js.map": "/portfolio/static/js/main.0af78d55.js.map",
+    "453.5d79306b.chunk.js.map": "/portfolio/static/js/453.5d79306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0beab7.css",
+    "static/js/main.0af78d55.js"
+  ]
+}
