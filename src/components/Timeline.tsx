@@ -16,50 +16,50 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="July 2025 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Junior Data Analyst</h3>
+            <h4 className="vertical-timeline-element-subtitle">Remote / Huntington, WV</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Data Analysis, Dashboard Building, Insights Presentation, Database Management
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="February 2024 - Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Full Stack Web Developer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Remote / Huntington, WV</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Frontend Development, Backend Development, User Experience, Graphic Design
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="2009 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Research Project Coordinator</h3>
+            <h4 className="vertical-timeline-element-subtitle">Remote / Huntington, WV</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Project Coordination, KPI Analysis, Team Leadership, Stakeholder Collaboration, Workforce Development and Training, Data Quality Assurance, Information Systems Management, Technical Support, Business Administration
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2007 - 2009"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Research Interviewer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Huntington, WV</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Survey Administration, Data Collection, Data Entry, Communication, Human Subjects Research Protections
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
