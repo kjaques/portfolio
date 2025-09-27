@@ -59,7 +59,7 @@ section { margin-block: 3rem; }
   text-align: center;
   border-color: white;
   border-style: solid;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
 }
 
 .marquee-item {
@@ -67,6 +67,7 @@ section { margin-block: 3rem; }
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 200px;
 }
 
 ul { padding-left: 0; }
