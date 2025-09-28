@@ -7,25 +7,24 @@ import SQLA from '../assets/images/SQLAssociate.png';
 
 function Certs() {
     return (
-    <section className="enable-animation" id="certs">
+    <section className="enable-animation" id="certificates">
         <div className="marquee-container">
+            <h1>Certificates</h1>
             <div className="marquee-title">
-                <h1>Certifications</h1>
-            
                 <ul className="marquee">
                     <div className="marquee-content">
                         <a href="https://www.datacamp.com/certificate/DAA0010749904281" target="_blank" rel="noreferrer">
-                        <div className="marquee-item zoom">
+                        <div className="marquee-item">
                             <img src={DAA} height="150px" width="100px" alt="Data Analyst Associate certification badge" /><br />
                         </div>
                         </a>
                         <a href="https://www.datacamp.com/certificate/SQA0018388461209" target="_blank" rel="noreferrer">
-                        <div className="marquee-item zoom">
+                        <div className="marquee-item">
                             <img src={SQLA} height="150px" width="100px" alt="SQL Associate certification badge" /><br />
                         </div>
                         </a>
                         <a href="https://www.datacamp.com/skill-verification/DL0031684006784" target="_blank" rel="noreferrer">
-                        <div className="marquee-item zoom">
+                        <div className="marquee-item">
                             <img src={DL} height="150px" width="100px" alt="Data Literacy certification badge" /><br />
                         </div>
                         </a>
@@ -33,17 +32,17 @@ function Certs() {
 
                     <div aria-hidden="true" className="marquee-content">
                         <a href="https://www.datacamp.com/certificate/DAA0010749904281" target="_blank" rel="noreferrer">
-                        <div className="marquee-item zoom">
+                        <div className="marquee-item">
                             <img src={DAA} height="150px" width="100px" alt="Data Analyst Associate certification badge" /><br />
                         </div>
                         </a>
                         <a href="https://www.datacamp.com/certificate/SQA0018388461209" target="_blank" rel="noreferrer">
-                        <div className="marquee-item zoom">
+                        <div className="marquee-item">
                             <img src={SQLA} height="150px" width="100px" alt="SQL Associate certification badge" /><br />
                         </div>
                         </a>
                         <a href="https://www.datacamp.com/skill-verification/DL0031684006784" target="_blank" rel="noreferrer">
-                        <div className="marquee-item zoom">
+                        <div className="marquee-item">
                             <img src={DL} height="150px" width="100px" alt="Data Literacy certification badge" /><br />
                         </div>
                         </a>
