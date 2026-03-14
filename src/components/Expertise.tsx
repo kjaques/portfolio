@@ -14,6 +14,8 @@ const labelsFirst = [
     "Tableau",
     "Powerpoint",
     "Publisher",
+    "Visio",
+    "Sharepoint",
     "Git",
     "GitHub",
     "Slack",
@@ -57,7 +59,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Data Analysis</h3>
-                    <p><b>I enjoy finding the story hidden in the numbers.</b> Whether working with public health data or operational metrics, I've built a career on turning raw information into insights people and organizations can actually use. My goal is always to make data approachable, clear, and practical, helping teams and stakeholders see the bigger picture and move forward with confidence.</p>
+                    <p><b>I enjoy finding the story hidden in the numbers.</b> Whether working with public health statistics, operational metrics, or government systems data, I've built a career on turning raw information into insights people and organizations can actually use. My goal is always to make data approachable, clear, and practical, helping teams and stakeholders see the bigger picture and move forward with confidence.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tools:</span>
                         {labelsFirst.map((label, index) => (

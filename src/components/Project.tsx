@@ -1,4 +1,5 @@
 import React from "react";
+import priceofpremium from '../assets/images/priceofpremium.png';
 import cms from '../assets/images/cms.png';
 import hrDashboard from '../assets/images/HRDashboard.png';
 import mentalhealthburden from '../assets/images/mentalhealthburden.png';
@@ -14,6 +15,11 @@ function Project() {
     <div className="projects-container" id="projects">
         <h1>Projects</h1>
         <div className="projects-grid">
+            <div className="project">
+                <a href="https://www.youtube.com/watch?v=EM7v9Z3pTjA" target="_blank" rel="noreferrer"><img src={priceofpremium} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/kjaques/the-price-of-premium" target="_blank" rel="noreferrer"><h2>The Price of Premium: An Analysis of Hospital Markups and Quality</h2></a>
+                <p>A data analytics project exploring the relationships between hospital costs, charges, and patient care quality using CMS datasets which includes SQL and Python-based data integration, statistical analyses, an interactive dashboard, and presentation</p>
+            </div>
             <div className="project">
                 <a href="https://github.com/kjaques/prescriber-project-sql/blob/main/prescribers-MVP.sql" target="_blank" rel="noreferrer"><img src={cms} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/kjaques/prescriber-project-sql/blob/main/prescribers-MVP.sql" target="_blank" rel="noreferrer"><h2>CMS Prescriber and Prescription Data Analysis</h2></a>

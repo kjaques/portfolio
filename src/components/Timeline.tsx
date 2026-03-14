@@ -16,7 +16,21 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="July 2025 - present"
+            date="January 2026 - Present"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Government Data Analyst</h3>
+            <h4 className="vertical-timeline-element-subtitle">Huntington, WV</h4>
+            <p>
+              ETL Pipeline Development, Reporting Automation, BI Development, Data Cleaning & Transformation, Third-Party Systems Implementation, Cross-Functional Collaboration, Geospatial Analysis, Civic and Crime Analytics, Financial Analysis 
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="July 2025 - January 2026"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -47,7 +61,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Research Project Coordinator</h3>
             <h4 className="vertical-timeline-element-subtitle">Remote / Huntington, WV</h4>
             <p>
-              Project Coordination, KPI Analysis, Team Leadership, Stakeholder Collaboration, Workforce Development and Training, Data Quality Assurance, Information Systems Management, Technical Support, Business Administration
+              Project Coordination, KPI Analysis, Team Leadership, Stakeholder Communication, Workforce Development and Training, Data Quality Assurance, Information Systems Management, Technical Support, Business Administration
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
