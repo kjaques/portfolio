@@ -16,6 +16,26 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
+                {/* <a href="#" target="_blank" rel="noreferrer"><img src={alertDashboard} className="zoom" alt="thumbnail" width="100%"/></a> */}
+                <a href="https://www.hpdwv.com" target="_blank" rel="noreferrer"><h2>Huntington Police Department's ALERT (Analytic Law Enforcement Reporting Tool) Dashboard</h2></a>
+                <p>An internal criminal intelligence platform that transforms raw police incident data into actionable spatial and temporal crime pattern analyses by designing ETL procedures to ingest datasets from police CAD and RMS systems, ensuring high data integrity for critical command-staff strategic staffing and investigation decisions</p>
+            </div>
+            <div className="project">
+                {/* <a href="#" target="_blank" rel="noreferrer"><img src={bloombergHarvard} className="zoom" alt="thumbnail" width="100%"/></a> */}
+                <a href="https://www.cityleadership.harvard.edu/" target="_blank" rel="noreferrer"><h2>Bloomberg Harvard City Leadership Initiative Data Track: Homelessness Response</h2></a>
+                <p>A cross-departmental performance management initiative under Johns Hopkins University guidance and mayoral strategic direction where I identified data gaps, defined intervention metrics, and built a baseline data snapshot that revealed repeat individuals accounted for one-third of peak Crisis Intervention Team responses, directly shaping resource planning to target a 20% reduction in related calls</p>
+            </div>
+            <div className="project">
+                {/* <a href="#" target="_blank" rel="noreferrer"><img src={publicSafetyDashboard} className="zoom" alt="thumbnail" width="100%"/></a> */}
+                <a href="https://www.publicsafetydashboard.com" target="_blank" rel="noreferrer"><h2>City of Huntington Public Safety Dashboard</h2></a>
+                <p>An interactive public dashboard designed to promote municipal transparency and community engagement by translating complex, multi-agency public safety data into accessible visual trends that allow residents to monitor historical and current community safety metrics</p>
+            </div>
+            <div className="project">
+                {/* <a href="#" target="_blank" rel="noreferrer"><img src={financeRecalc} className="zoom" alt="thumbnail" width="100%"/></a> */}
+                <a href="https://www.cityofhuntington.com/assets/pdf/document-center/Collections_Request_for_Relief_3.29.22.pdf" target="_blank" rel="noreferrer"><h2>Municipal Fees Request for Relief 5-Year Financial Recalculation</h2></a>
+                <p>A data-driven financial automation tool that allows the finance department to look up accounts by number, address, or customer to pull database records, automatically assess forgiveness windows, and recalculate penalties and 12-month installment plans for overdue refuse and municipal service fees, cutting the manual processing workflow by up to 95%</p>
+            </div>
+            <div className="project">
                 <a href="https://www.youtube.com/watch?v=EM7v9Z3pTjA" target="_blank" rel="noreferrer"><img src={priceofpremium} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/kjaques/the-price-of-premium" target="_blank" rel="noreferrer"><h2>The Price of Premium: An Analysis of Hospital Markups and Quality</h2></a>
                 <p>A data analytics project exploring the relationships between hospital costs, charges, and patient care quality using CMS datasets which includes SQL and Python-based data integration, statistical analyses, an interactive dashboard, and presentation</p>

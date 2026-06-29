@@ -4,6 +4,8 @@ import DL from '../assets/images/DataLiteracy.png';
 import DAA from '../assets/images/DataAnalystAssociate.png';
 import SQLA from '../assets/images/SQLAssociate.png';
 import PDA from '../assets/images/PythonDataAssociate.png';
+import DE from '../assets/images/DataEngineerAssociate.png';
+import DG from '../assets/images/DataGovernance.png';
 
 
 function Certs() {
@@ -24,9 +26,19 @@ function Certs() {
                             <img src={PDA} height="150px" width="100px" alt="Python Data Associate certification badge" /><br />
                         </div>
                         </a>
+                        <a href="https://www.datacamp.com/certificate/DEA0017395181796" target="_blank" rel="noreferrer">
+                        <div className="marquee-item">
+                            <img src={DE} height="150px" width="100px" alt="Data Engineer Associate certification badge" /><br />
+                        </div>
+                        </a>
                         <a href="https://www.datacamp.com/certificate/SQA0018388461209" target="_blank" rel="noreferrer">
                         <div className="marquee-item">
                             <img src={SQLA} height="150px" width="100px" alt="SQL Associate certification badge" /><br />
+                        </div>
+                        </a>
+                        <a href="https://www.datacamp.com/skill-verification/DG0026457807637" target="_blank" rel="noreferrer">
+                        <div className="marquee-item">
+                            <img src={DG} height="150px" width="100px" alt="Data Governance Fundamentals certification badge" /><br />
                         </div>
                         </a>
                         <a href="https://www.datacamp.com/skill-verification/DL0031684006784" target="_blank" rel="noreferrer">
@@ -47,9 +59,19 @@ function Certs() {
                             <img src={PDA} height="150px" width="100px" alt="Python Data Associate certification badge" /><br />
                         </div>
                         </a>
+                        <a href="https://www.datacamp.com/certificate/DEA0017395181796" target="_blank" rel="noreferrer">
+                        <div className="marquee-item">
+                            <img src={DE} height="150px" width="100px" alt="Data Engineer Associate certification badge" /><br />
+                        </div>
+                        </a>
                         <a href="https://www.datacamp.com/certificate/SQA0018388461209" target="_blank" rel="noreferrer">
                         <div className="marquee-item">
                             <img src={SQLA} height="150px" width="100px" alt="SQL Associate certification badge" /><br />
+                        </div>
+                        </a>
+                        <a href="https://www.datacamp.com/skill-verification/DG0026457807637" target="_blank" rel="noreferrer">
+                        <div className="marquee-item">
+                            <img src={DG} height="150px" width="100px" alt="Data Governance Fundamentals certification badge" /><br />
                         </div>
                         </a>
                         <a href="https://www.datacamp.com/skill-verification/DL0031684006784" target="_blank" rel="noreferrer">
