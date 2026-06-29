@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.70ace9c2.css",
-    "main.js": "/portfolio/static/js/main.f1d0d6f7.js",
+    "main.js": "/portfolio/static/js/main.1ec88636.js",
     "static/js/453.5d79306b.chunk.js": "/portfolio/static/js/453.5d79306b.chunk.js",
     "static/media/screenshot.png": "/portfolio/static/media/screenshot.4cf133abababbf58de25.png",
     "static/media/lightbg.jpg": "/portfolio/static/media/lightbg.f6497dbfb9c4978fd278.jpg",
     "static/media/darkbg.jpg": "/portfolio/static/media/darkbg.b36ddbc706c567d12b04.jpg",
     "static/media/hearthy.png": "/portfolio/static/media/hearthy.02222f24fd65295d1800.png",
+    "static/media/DataGovernance.png": "/portfolio/static/media/DataGovernance.44e60af2da65ef36cbed.png",
     "static/media/PythonDataAssociate.png": "/portfolio/static/media/PythonDataAssociate.d844cc3c776d679480f0.png",
+    "static/media/DataEngineerAssociate.png": "/portfolio/static/media/DataEngineerAssociate.eae562c238c478d8695d.png",
     "static/media/DataAnalystAssociate.png": "/portfolio/static/media/DataAnalystAssociate.1c185d1fbf782f610ca4.png",
     "static/media/SQLAssociate.png": "/portfolio/static/media/SQLAssociate.5187dafd4f41992c2a98.png",
     "static/media/cartoonheadshot.png": "/portfolio/static/media/cartoonheadshot.4f9570f18c4211e644f9.png",
@@ -21,11 +23,11 @@
     "static/media/priceofpremium.png": "/portfolio/static/media/priceofpremium.7c649f37204cca432573.png",
     "index.html": "/portfolio/index.html",
     "main.70ace9c2.css.map": "/portfolio/static/css/main.70ace9c2.css.map",
-    "main.f1d0d6f7.js.map": "/portfolio/static/js/main.f1d0d6f7.js.map",
+    "main.1ec88636.js.map": "/portfolio/static/js/main.1ec88636.js.map",
     "453.5d79306b.chunk.js.map": "/portfolio/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70ace9c2.css",
-    "static/js/main.f1d0d6f7.js"
+    "static/js/main.1ec88636.js"
   ]
 }
